@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638449821789311711
-    m_Hash: 3296950256
+      ticks: 638490518729363621
+    m_Hash: 2005480507
   m_LockFileStatus:
     m_FilePath: C:/Users/rawat/Documents/GitHub/FIRST-PERSON-BASIC-GAME/FPS/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638449821789433229
-    m_Hash: 2223905816
+      ticks: 638492178314524256
+    m_Hash: 2292904672
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,12 +22,12 @@ m_LocalPackages:
 m_ProjectPath: C:/Users/rawat/Documents/GitHub/FIRST-PERSON-BASIC-GAME/FPS/Packages
 m_EditorVersion: 2022.3.17f1 (4fc78088f837)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@2.2.0
+- packageId: com.unity.collab-proxy@2.3.1
   testable: 0
   isDirectDependency: 1
-  version: 2.2.0
+  version: 2.3.1
   source: 1
-  resolvedPath: C:\Users\rawat\Documents\GitHub\FIRST-PERSON-BASIC-GAME\FPS\Library\PackageCache\com.unity.collab-proxy@2.2.0
+  resolvedPath: C:\Users\rawat\Documents\GitHub\FIRST-PERSON-BASIC-GAME\FPS\Library\PackageCache\com.unity.collab-proxy@2.3.1
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -147,13 +147,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638326189440000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.2/manual/index.html
+  datePublishedTicks: 638448201880000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.3/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 33c8fba1793946be3c73f738edf70db0b5546afd
+    revision: 613362ccb4468f55ee42e0a35809fb9a61f3f8f1
     path: 
   unityLifecycle:
     version: 2.2.0
@@ -739,6 +739,7 @@ m_ResolvedPackages:
     - 1.0.0
     - 3.0.0-exp.1
     - 3.0.0-exp.3
+    - 3.0.0-exp.4
     compatible:
     - 1.0.0
     recommended: 1.0.0
@@ -784,12 +785,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.visualscripting@1.9.1
+- packageId: com.unity.visualscripting@1.9.2
   testable: 0
   isDirectDependency: 1
-  version: 1.9.1
+  version: 1.9.2
   source: 1
-  resolvedPath: C:\Users\rawat\Documents\GitHub\FIRST-PERSON-BASIC-GAME\FPS\Library\PackageCache\com.unity.visualscripting@1.9.1
+  resolvedPath: C:\Users\rawat\Documents\GitHub\FIRST-PERSON-BASIC-GAME\FPS\Library\PackageCache\com.unity.visualscripting@1.9.2
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -834,9 +835,13 @@ m_ResolvedPackages:
     - 1.8.0
     - 1.9.0
     - 1.9.1
+    - 1.9.2
+    - 1.9.4
     compatible:
     - 1.9.1
-    recommended: 1.9.1
+    - 1.9.2
+    - 1.9.4
+    recommended: 1.9.4
     deprecated:
     - 1.8.0-pre.1
   dependencies:
@@ -864,13 +869,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638284821510000000
+  datePublishedTicks: 638452551610000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
-    revision: 5e78e9c354ed1567dbcea08e2bd9992e4a473cfb
+    revision: 0dd874ef58a75ee4b4df6a81e65230e2602096a3
     path: 
   unityLifecycle:
     version: 1.9.1
@@ -3243,6 +3248,7 @@ m_ResolvedPackages:
     - 1.4.1
     - 1.4.2
     - 1.4.3
+    - 1.4.4
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -3262,6 +3268,7 @@ m_ResolvedPackages:
     - 1.4.1
     - 1.4.2
     - 1.4.3
+    - 1.4.4
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
